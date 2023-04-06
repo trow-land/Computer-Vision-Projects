@@ -44,7 +44,7 @@ Throughout these projects, I've gained experience in the following skills and te
 
 ## Get in Touch
 
-I'm always open to discussing new project ideas, collaborations, or opportunities to contribute to the computer vision community. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/) or drop me an email at [your.email@example.com](mailto:your.email@example.com).
+I'm always open to discussing new project ideas, collaborations, or opportunities to contribute to the computer vision community. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-rowland-07a785155/) or drop me an email at [tom_rowland@outlook.com](mailto:tom_rowland@outlook.com).
 
 ---
 
