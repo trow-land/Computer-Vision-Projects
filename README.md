@@ -36,8 +36,8 @@ Throughout these projects, I've gained experience in the following skills and te
 - TensorFlow
 - Keras
 - OpenCV
-- PyTorch
 - Image Processing
+- Image Classification
 - Object Detection
 - Deep Learning
 - Machine Learning
