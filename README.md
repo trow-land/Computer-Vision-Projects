@@ -1,6 +1,7 @@
 # Computer Vision Projects
 
-A collection of diverse computer vision projects that I have completed while expanding my knowledge and experience in the field. This repository showcases my ability to work on different computer vision tasks, with a focus on agriculture and recycling/litter detection.
+A collection of diverse computer vision projects that I have completed while expanding my knowledge and experience in the field. This repository showcases my ability to work on different computer vision tasks, with a focus on agriculture and recycling/litter detection as they are my main interests. I will be adding more projects to this repository as I complete them alongside my current MSc studies in Robotics and as time permits. For information regarding my MSc dissertation project, ["3D Vision Towards the Robotic Harvest of Shiitake Mushrooms"](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest), see that repository.
+
 
 ## Table of Contents
 
@@ -25,6 +26,10 @@ Below is a brief overview of some of the key projects included in this repositor
 2. **Recycling and Litter Detection**
    - Waste Segregation: _Implementing object detection algorithms to categorize waste materials for efficient recycling._
    - Litter Detection in Public Spaces: _Utilizing computer vision models to identify and track litter in real-time._
+   
+3. **Advanced Computer Vision Techniques with TensorFlow
+   - The relevant part of the TensorFlow: Advanced Techniques Specialization course from Deeplearning.ai_
+   - Showcased on this repository are the section assessements and the resulting certificate._ 
 
 _For more detailed information on each project, please navigate to the respective project folder._
 
