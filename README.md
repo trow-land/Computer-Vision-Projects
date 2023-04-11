@@ -46,6 +46,7 @@ Throughout these projects, I've gained experience in the following skills and te
 - Object Detection
 - Deep Learning
 - Machine Learning
+- Hyperparameter Tuning
 
 ## Get in Touch
 
