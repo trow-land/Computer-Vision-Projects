@@ -28,9 +28,9 @@ Below is a brief overview of some of the key projects included in this repositor
    - Litter Detection in Public Spaces: _Utilizing computer vision models to identify and track litter in real-time._
    
 3. **Advanced Computer Vision Techniques with TensorFlow
-   - The relevant part of the TensorFlow: Advanced Techniques Specialization course from Deeplearning.ai_
-   - Showcased on this repository are the section assessements and the resulting certificate._ 
-
+   - The relevant part of the _TensorFlow: Advanced Techniques Specialization_ course from Deeplearning.ai
+   - Showcased on this repository are the section assessements and the resulting certificate.
+    
 _For more detailed information on each project, please navigate to the respective project folder._
 
 ## Skills & Technologies
