@@ -43,7 +43,7 @@ Throughout these projects, I've gained experience in the following skills and te
 - OpenCV
 - Image Processing
 - Image Classification
-- Image Segmentation
+- Image Segmentation [MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb)
 - Object Detection
 - Deep Learning
 - Machine Learning
