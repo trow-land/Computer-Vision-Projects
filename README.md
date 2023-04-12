@@ -43,6 +43,7 @@ Throughout these projects, I've gained experience in the following skills and te
 - OpenCV
 - Image Processing
 - Image Classification
+- Image Segmentation
 - Object Detection
 - Deep Learning
 - Machine Learning
