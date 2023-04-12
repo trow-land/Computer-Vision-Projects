@@ -42,8 +42,8 @@ Throughout these projects, I've gained experience in the following skills and te
 - Keras
 - OpenCV
 - Image Processing
-- Image Classification [PlantVillage](https://github.com/trow-land/Computer-Vision-Projects/blob/main/Plant_Diseases_KerasTuner_InceptionV3.ipynb)
-- Image Segmentation [MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb)
+- Image Classification ([PlantVillage](https://github.com/trow-land/Computer-Vision-Projects/blob/main/Plant_Diseases_KerasTuner_InceptionV3.ipynb))
+- Image Segmentation ([MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb))
 - Object Detection
 - Deep Learning
 - Machine Learning
