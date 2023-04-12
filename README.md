@@ -27,7 +27,7 @@ Below is a brief overview of some of the key projects included in this repositor
    - Waste Segregation: _Implementing object detection algorithms to categorize waste materials for efficient recycling._
    - Litter Detection in Public Spaces: _Utilizing computer vision models to identify and track litter in real-time._
    
-3. **Advanced Computer Vision Techniques with TensorFlow
+3. **Advanced Computer Vision Techniques with TensorFlow**
    - The relevant part of the _TensorFlow: Advanced Techniques Specialization_ course from Deeplearning.ai
    - Showcased on this repository are the section assessements and the resulting certificate.
     
