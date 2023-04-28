@@ -14,9 +14,14 @@ The GRowBot project aims to:
 
 At this stage, the project contains a few Jupyter Notebook files with the following functionalities:
 
-1. Training a YOLOv8 (You Only Look Once) model for crop and weed detection.
+1. Training a YOLOv8 (You Only Look Once) model for crop and weed detection and inference on a test set.
 2. Training an SSD (Single Shot MultiBox Detector) model for crop and weed detection.
 3. Integrating hypothetical NPK nutrient testing results and providing fertilisation ratio recommendations based on test results.
+
+
+
+![An example output from inference on the 100 test set images. To simulate the GRowBot moving along a 100m row of carrots the test images were loosely ordered so that their were more weed annotations towards the back. This would simulate a situation where there are more weeds at one end where maybe seeds have blown in from an adjacent field. ](images/Carrot_weed_dens_graph.png)
+
 
 
 ## Future Work
