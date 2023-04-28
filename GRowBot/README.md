@@ -21,7 +21,7 @@ At this stage, the project contains a few Jupyter Notebook files with the follow
 
 
 ![Example ](images/Carrot_weed_dens_graph.png)
-An example output from inference on the 100 test set images. To simulate the GRowBot moving along a 100m row of carrots the test images were loosely ordered so that their were more weed annotations towards the back. This would simulate a situation where there are more weeds at one end where maybe seeds have blown in from an adjacent field.
+An example of the output counts from inference on the 100 images in the test set. To simulate the GRowBot moving along a 100m row of carrots the test images were loosely ordered so that their were more weed annotations towards the back. This would simulate a situation where there are more weeds at one end where maybe seeds have blown in from an adjacent field.
 
 
 
