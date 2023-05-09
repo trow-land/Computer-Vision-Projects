@@ -18,9 +18,18 @@ At this stage, the project contains a few Jupyter Notebook files with the follow
 2. Training an SSD (Single Shot MultiBox Detector) model for crop and weed detection.
 3. Integrating hypothetical NPK nutrient testing results and providing fertilisation ratio recommendations based on test results.
 
+Inference examples can be seen in [images](https://github.com/trow-land/Computer-Vision-Projects/tree/main/GRowBot/images)
 
+![YOLO](images/YOLO1.jpg)
+
+## Dataset Citation
+
+The dataset used in this project was modified from 'late-stage Dataset' by Med Chebbi, published on Roboflow Universe. More details can be found at the dataset's [webpage](https://universe.roboflow.com/med-chebbi/late-stage).
+
+## Crop and weed density
 
 ![Example ](images/Carrot_weed_dens_graph.png)
+
 An example of the output counts from inference on the 100 images in the test set. To simulate the GRowBot moving along a 100m row of carrots the test images were loosely ordered so that their were more weed annotations towards the back. This would simulate a situation where there are more weeds at one end where maybe seeds have blown in from an adjacent field.
 
 
