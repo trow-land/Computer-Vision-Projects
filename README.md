@@ -24,7 +24,7 @@ Below is a brief overview of some of the key projects included in this repositor
    - Precision Agriculture: _Applying computer vision techniques to optimize farming practices and resource management._
 
 2. **Recycling and Litter Detection**
-   - Waste Segregation: _Implementing object detection algorithms to categorize waste materials for efficient recycling._
+   - Waste Segregation: _Implementing object detection algorithms to categorise waste materials for efficient recycling._
    - Litter Detection in Public Spaces: _Utilizing computer vision models to identify and track litter in real-time._
    
 3. **Advanced Computer Vision Techniques with TensorFlow**
