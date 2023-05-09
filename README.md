@@ -1,6 +1,6 @@
 # Computer Vision Projects
 
-A collection of diverse computer vision projects that I have completed while expanding my knowledge and experience in the field. This repository showcases my ability to work on different computer vision tasks, with a focus on agriculture and recycling/litter detection as they are my main interests. I will be adding more projects to this repository as I complete them alongside my current MSc studies in Robotics and as time permits. For information regarding my MSc dissertation project, ["3D Vision Towards the Robotic Harvest of Shiitake Mushrooms"](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest), see that repository.
+A collection of computer vision projects that I have completed while expanding my knowledge and experience in the field. This repository showcases my ability to work on different computer vision tasks, with a focus on agriculture and recycling/litter detection as they are my main interests. I will be adding more projects to this repository as I complete them alongside my current MSc studies in Robotics and as time permits. For information regarding my MSc dissertation project, ["3D Vision Towards the Robotic Harvest of Shiitake Mushrooms"](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest), see that repository.
 
 
 ## Table of Contents
