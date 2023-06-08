@@ -21,14 +21,14 @@ Below is a brief overview of some of the key projects included in this repositor
 1. **Agri-Tech**
    - Crop Disease Detection: _Using deep learning to identify and classify crop diseases from leaf images._
    - Plant Species Classification: _Leveraging machine learning to distinguish between different plant species._
-   - Precision Agriculture: _Applying computer vision techniques to optimize farming practices and resource management._
+   - Precision Agriculture: _Applying computer vision techniques to optimise farming practices and resource management._
 
 2. **Recycling and Litter Detection**
    - Waste Segregation: _Implementing object detection algorithms to categorise waste materials for efficient recycling._
-   - Litter Detection in Public Spaces: _Utilizing computer vision models to identify and track litter in real-time._
+   - Litter Detection in Public Spaces: _Utilising computer vision models to identify and track litter in real-time._
    
 3. **Advanced Computer Vision Techniques with TensorFlow**
-   - The relevant part of the _TensorFlow: Advanced Techniques Specialization_ course from Deeplearning.ai
+   - The relevant part of the _TensorFlow: Advanced Techniques Specialisation_ course from Deeplearning.ai
    - Showcased on this repository are the section assessements and the resulting certificate.
     
 _For more detailed information on each project, please navigate to the respective project folder._
