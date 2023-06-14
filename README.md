@@ -44,7 +44,7 @@ Throughout these projects, I've gained experience in the following skills and te
 - OpenCV
 - Image Processing
 - Image Classification ([PlantVillage](https://github.com/trow-land/Computer-Vision-Projects/blob/main/Plant_Diseases_KerasTuner_InceptionV3.ipynb), [Cassava](https://github.com/trow-land/Computer-Vision-Projects/blob/main/CassavaDisease_EfficientNetv2_KerasTuner.ipynb))
-- Image Segmentation ([MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb))
+- Instance Segmentation ([MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb)), 
 - Object Detection ([GRowBot](https://github.com/trow-land/Computer-Vision-Projects/tree/main/GRowBot))
 - Deep Learning
 - Machine Learning
@@ -52,7 +52,11 @@ Throughout these projects, I've gained experience in the following skills and te
 
 ## Get in Touch
 
-I'm always open to discussing new project ideas, collaborations, or opportunities to contribute to the computer vision community. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-rowland-07a785155/) or drop me an email at [tom_rowland@outlook.com](mailto:tom_rowland@outlook.com).
+I am currently seeking opportunities as a Computer Vision Engineer within the UK. I hope the projects shared in this repository clearly demonstrate my dedication and enthusiasm for Computer Vision, particularly in the context of Agri-Tech and environmental sustainability. I am excited to put this enthusiasm to use in a role where I can make a positive impact on agriculture, environment, and beyond.
+
+Apart from professional opportunities, I'm always open to collaborating on interesting projects or discussions in the field of Computer Vision. If you'd like to connect, offer advice on improving my projects, or discuss potential collaboration, please feel free to reach out.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-rowland-07a785155/) or email at [tom_rowland@outlook.com](mailto:tom_rowland@outlook.com). 
 
 ---
 
