@@ -13,7 +13,7 @@ A collection of computer vision projects that I have completed while expanding m
 
 ## Introduction
 
-Hello! I'm Tom, an aspiring computer vision engineer with a passion for Agri-Tech and environmental sustainability. Throughout my journey, I've worked on various computer vision projects that aim to tackle real-world problems in agriculture and waste management. In this repository, you'll find a compilation of those projects, along with their source codes, descriptions, and results.
+Hello! I'm Tom, an aspiring computer vision engineer with a passion for Agri-Tech and environmental sustainability. Throughout my journey, I've worked on various computer vision projects that aim to tackle real-world problems in agriculture and waste management. In this repository, you'll find a compilation of those projects, along with their code, descriptions, and results.
 
 ## Projects Overview
 
