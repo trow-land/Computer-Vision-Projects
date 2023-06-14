@@ -1,4 +1,5 @@
 # Computer Vision Projects
+## The projects contained within this repository are in the process of being split into their own individual repositories whereby this page will be used to signpost you to any relevant projects 
 
 A collection of computer vision projects that I have completed while expanding my knowledge and experience in the field. This repository showcases my ability to work on different computer vision tasks, with a focus on agriculture and recycling/litter detection as they are my main interests. I will be adding more projects to this repository as I complete them alongside my current MSc studies in Robotics and as time permits. For information regarding my MSc dissertation project, ["3D Vision Towards the Robotic Harvest of Shiitake Mushrooms"](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest), see that repository.
 
@@ -44,7 +45,7 @@ Throughout these projects, I've gained experience in the following skills and te
 - Image Processing
 - Image Classification ([PlantVillage](https://github.com/trow-land/Computer-Vision-Projects/blob/main/Plant_Diseases_KerasTuner_InceptionV3.ipynb), [Cassava](https://github.com/trow-land/Computer-Vision-Projects/blob/main/CassavaDisease_EfficientNetv2_KerasTuner.ipynb))
 - Image Segmentation ([MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb))
-- Object Detection
+- Object Detection ([GRowBot](https://github.com/trow-land/Computer-Vision-Projects/tree/main/GRowBot))
 - Deep Learning
 - Machine Learning
 - Hyperparameter Tuning
