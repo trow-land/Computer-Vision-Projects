@@ -45,7 +45,7 @@ Throughout these projects, I've gained experience in the following skills and te
 - Image Processing
 - Image Classification ([PlantVillage](https://github.com/trow-land/Computer-Vision-Projects/blob/main/Plant_Diseases_KerasTuner_InceptionV3.ipynb), [Cassava](https://github.com/trow-land/Computer-Vision-Projects/blob/main/CassavaDisease_EfficientNetv2_KerasTuner.ipynb))
 - Instance Segmentation ([MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb)), 
-- Object Detection ([GRowBot](https://github.com/trow-land/Computer-Vision-Projects/tree/main/GRowBot))
+- Object Detection ([GRowBot](https://github.com/trow-land/GRowBot))
 - Deep Learning
 - Machine Learning
 - Hyperparameter Tuning
