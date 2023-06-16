@@ -42,10 +42,10 @@ Throughout these projects, I've gained experience in the following skills and te
 - TensorFlow
 - Keras
 - OpenCV
-- Image Processing
+- Image Processing ([Shiitake Harvest](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest))
 - Image Classification ([PlantVillage](https://github.com/trow-land/Computer-Vision-Projects/blob/main/Plant_Diseases_KerasTuner_InceptionV3.ipynb), [Cassava](https://github.com/trow-land/Computer-Vision-Projects/blob/main/CassavaDisease_EfficientNetv2_KerasTuner.ipynb))
-- Instance Segmentation ([MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb)), 
-- Object Detection ([GRowBot](https://github.com/trow-land/GRowBot))
+- Instance Segmentation ([MinneApple](https://github.com/trow-land/Computer-Vision-Projects/blob/main/AppleSegmentation_UNet_MinneApple.ipynb), [Shiitake Harvest](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest), [Litter Detector](https://github.com/trow-land/LitterDetector))
+- Object Detection ([GRowBot](https://github.com/trow-land/GRowBot), [Litter Detector](https://github.com/trow-land/LitterDetector), [Shiitake Harvest](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest))
 - Deep Learning
 - Machine Learning
 - Hyperparameter Tuning
