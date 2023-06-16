@@ -23,10 +23,11 @@ Below is a brief overview of some of the key projects included in this repositor
    - Crop Disease Detection: _Using deep learning to identify and classify crop diseases from leaf images._
    - Plant Species Classification: _Leveraging machine learning to distinguish between different plant species._
    - Precision Agriculture: _Applying computer vision techniques to optimise farming practices and resource management._
+   - GRowBot: _Crop and Weed Detection, counting and mapping. NPK testing for localised fertiliser recommendations_
 
 2. **Recycling and Litter Detection**
    - Waste Segregation: _Implementing object detection algorithms to categorise waste materials for efficient recycling._
-   - Litter Detection in Public Spaces: _Utilising computer vision models to identify and track litter in real-time._
+   - Litter Detection in Public Spaces: _Utilising computer vision models to detectect, classify and segment litter in real-time._
    
 3. **Advanced Computer Vision Techniques with TensorFlow**
    - The relevant part of the _TensorFlow: Advanced Techniques Specialisation_ course from Deeplearning.ai
@@ -60,4 +61,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-ro
 
 ---
 
-_Last updated: April 14, 2023_
+_Last updated: April 16, 2023_
