@@ -15,9 +15,9 @@ The majority of my experience has been computer vision related but for more mach
 
 ## Introduction
 
-Hello! I'm Tom, an aspiring computer vision engineer with a passion for Computer Vision, Machine Learning, Agri-Tech and Environmental Sustainability. Throughout my journey, I've worked on various computer vision projects that aim to tackle real-world problems in agriculture and waste management. In this repository, you'll find a compilation of those projects, along with their code, descriptions, and results.
+Hello! I'm Tom, an aspiring computer vision engineer with a passion for Computer Vision, Machine Learning, Agri-Tech and Environmental Sustainability. While learning I have worked on various computer vision projects that that I think are interesting problems and as a result they are generally focused on agriculture or litter detection. In this repository, you'll find a compilation of those projects, along with their code, descriptions, and results. 
 
-## Projects Overview
+Most of my work is encapsulated within Google Colab-style Jupyter notebooks, which I've found to be an effective learning tool. However, I'm currently in the process of branching some of these projects into their own repositories and preparing to containerise them using Docker.
 
 Below is a brief overview of some of the key projects included in this repository:
 
@@ -26,6 +26,7 @@ Below is a brief overview of some of the key projects included in this repositor
    - Plant Species Classification: _Leveraging machine learning to distinguish between different plant species._
    - Precision Agriculture: _Applying computer vision techniques to optimise farming practices and resource management._
    - GRowBot: _Crop and Weed Detection, counting and mapping. NPK testing for localised fertiliser recommendations_
+   - Apple Counting: _Comparison of conventional and deep learning methods for counting apples in an orchard_
 
 2. **Recycling and Litter Detection**
    - Waste Segregation: _Implementing object detection algorithms to categorise waste materials for efficient recycling._
