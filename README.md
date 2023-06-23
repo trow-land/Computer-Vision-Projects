@@ -31,12 +31,12 @@ Below is a brief overview of some of my key projects:
    - Crop Disease Detection: _Using deep learning to identify and classify crop diseases from leaf images._
    - Plant Species Classification: _Leveraging machine learning to distinguish between different plant species._
    - Precision Agriculture: _Applying computer vision techniques to optimise farming practices and resource management._
-   - GRowBot: _Crop and Weed Detection, counting and mapping. NPK testing for localised fertiliser recommendations_
+   - GRowBot: _Crop and weed detection with counting and mapping. NPK testing for localised fertiliser recommendations_
    - Apple Counting: _Comparison of conventional and deep learning methods for counting apples in an orchard_
 
 3. **Recycling and Litter Detection**
    - Waste Segregation: _Implementing object detection algorithms to categorise waste materials for efficient recycling._
-   - Litter Detection in Public Spaces: _Utilising computer vision models to detectect, classify and segment litter in real-time._
+   - Litter Detection in Public Spaces: _Utilising computer vision models to detectect, classify and segment litter in the wild._
    
 4. **Advanced Computer Vision Techniques with TensorFlow**
    - The relevant part of the _TensorFlow: Advanced Techniques Specialisation_ course from Deeplearning.ai
@@ -62,7 +62,7 @@ Throughout these projects, I've gained experience in the following skills and te
 
 ## Get in Touch
 
-I am currently seeking opportunities as a Computer Vision Engineer within the UK. I hope the projects shared in this repository clearly demonstrate my dedication and enthusiasm for Computer Vision, particularly in the context of Agri-Tech and environmental sustainability. I am excited to put this enthusiasm to use in a role where I can make a positive impact on agriculture, environment, and beyond.
+I am currently seeking opportunities as a Computer Vision Engineer within the UK. I hope the projects shared in this repository clearly demonstrate my dedication and enthusiasm for Computer Vision, particularly in the context of Agri-Tech and environmental sustainability. I am excited to put this enthusiasm to use in a role where I can make a positive impact on agriculture, environment, and other important issues.
 
 Apart from professional opportunities, I'm always open to collaborating on interesting projects or discussions in the field of Computer Vision. If you'd like to connect, offer advice on improving my projects, or discuss potential collaboration, please feel free to reach out.
 
