@@ -19,20 +19,26 @@ Hello! I'm Tom, an aspiring computer vision engineer with a passion for Computer
 
 Most of my work is encapsulated within Google Colab-style Jupyter notebooks, which I've found to be an effective learning tool. However, I'm currently in the process of branching some of these projects into their own repositories and preparing to containerise them using Docker.
 
-Below is a brief overview of some of the key projects included in this repository:
+Below is a brief overview of some of my key projects:
 
-1. **Agri-Tech**
+1. **3D Vision towards the Robotic Harvest of Shiitake Mushrooms**
+   - The dissertation project for my Robotics MSc and University of Bristol
+   - A larger project combining object detection and instance segmentation with both 2D and 3D data
+   - The trained instance segmenting Mask R-CNN is used to annotate the 3D point cloud data to determine 3D characteristics of the shiitake mushrooms such as their pose relative to the fruiting block and the level of maturity of the fruit.
+   - [Shiitake Harvest](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest)
+
+2. **Agri-Tech**
    - Crop Disease Detection: _Using deep learning to identify and classify crop diseases from leaf images._
    - Plant Species Classification: _Leveraging machine learning to distinguish between different plant species._
    - Precision Agriculture: _Applying computer vision techniques to optimise farming practices and resource management._
    - GRowBot: _Crop and Weed Detection, counting and mapping. NPK testing for localised fertiliser recommendations_
    - Apple Counting: _Comparison of conventional and deep learning methods for counting apples in an orchard_
 
-2. **Recycling and Litter Detection**
+3. **Recycling and Litter Detection**
    - Waste Segregation: _Implementing object detection algorithms to categorise waste materials for efficient recycling._
    - Litter Detection in Public Spaces: _Utilising computer vision models to detectect, classify and segment litter in real-time._
    
-3. **Advanced Computer Vision Techniques with TensorFlow**
+4. **Advanced Computer Vision Techniques with TensorFlow**
    - The relevant part of the _TensorFlow: Advanced Techniques Specialisation_ course from Deeplearning.ai
    - Showcased on this repository are the section assessements and the resulting certificate.
     
