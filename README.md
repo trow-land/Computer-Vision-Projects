@@ -3,7 +3,8 @@
 
 This repository serrves as a collection of computer vision projects that I have completed while expanding my knowledge and experience in the field. This repository showcases my ability to work on different computer vision tasks, with a focus on agriculture and recycling/litter detection as they are my main interests. I will be adding more projects to this repository as I complete them alongside my current MSc studies in Robotics and as time permits. For information regarding my MSc dissertation project, ["3D Vision Towards the Robotic Harvest of Shiitake Mushrooms"](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest), see that repository.
 
-The majority of my experience has been computer vision related but for more machine learning related projects see [Machine Learning](https://github.com/trow-land/Machine-Learning/tree/main)
+## Machine Learning
+I have recently put more effort into diversifying my portfolio, project related to other aspects of machine learning such as NLP see [Machine Learning](https://github.com/trow-land/Machine-Learning/tree/main)
 
 
 ## Table of Contents
@@ -15,7 +16,7 @@ The majority of my experience has been computer vision related but for more mach
 
 ## Introduction
 
-Hello! I'm Tom, an aspiring computer vision engineer with a passion for Computer Vision, Machine Learning, Agri-Tech and Environmental Sustainability. While learning I have worked on various computer vision projects that that I think are interesting problems and as a result they are generally focused on agriculture or litter detection. In this repository, you'll find a compilation of those projects, along with their code, descriptions, and results. 
+Hi I'm an aspiring computer vision engineer with a passion for Computer Vision, Machine Learning, Agri-Tech and Environmental Sustainability. While learning I have worked on various computer vision projects that that I think are interesting problems and as a result they are generally focused on agriculture or litter detection. In this repository, you'll find a compilation of those projects, along with their code, descriptions, and results. 
 
 Most of my work is encapsulated within Google Colab-style Jupyter notebooks, which I've found to be an effective learning tool. However, I'm currently in the process of branching some of these projects into their own repositories and preparing to containerise them using Docker.
 
