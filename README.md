@@ -5,6 +5,7 @@ This repository serrves as a collection of computer vision projects that I have 
 ## Machine Learning
 I have recently put more effort into diversifying my portfolio, project related to other aspects of machine learning such as NLP see [Machine Learning](https://github.com/trow-land/Machine-Learning/tree/main)
 
+## Current Focus
 
 ## Table of Contents
 
@@ -70,4 +71,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-ro
 
 ---
 
-_Last updated: April 16, 2023_
