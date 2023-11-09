@@ -10,7 +10,7 @@ cap = cv2.VideoCapture('carPark.mp4')
 # we need to import of all the positions that we have loaded
 # the car positions the same was as the other file
 
-with open("CarParkPos", 'rb') as f:  # adds to the pickle object - Opens file with read privileges
+with open("Parking Space Counter\CarParkPos", 'rb') as f:  # adds to the pickle object - Opens file with read privileges
     posList = pickle.load(f)
 
 width, height = 107, 48                         # The dimensions of a parking space
